@@ -14,6 +14,8 @@ https://zetawiki.com/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_Docker_Toolbox_%EC%84%A4%E
 
 https://suricata.readthedocs.io/en/suricata-4.1.4/
 - 수리카타 사용자 가이드 및 WSIS 패키징 정의 
+
+세부내용
 가. WSIS 패키지 종류
 - 행위분석(Z-Block) + 크롤링 (())      
 - Intelligence(SK infosec) + 크롤링(Suricata file 추출 및 분석)       
